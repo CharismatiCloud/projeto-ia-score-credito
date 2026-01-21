@@ -32,4 +32,6 @@ Após os testes, o modelo de **Random Forest** demonstrou maior precisão na cla
    ```bash
    pip install pandas scikit-learn
 3. Execute o arquivo main.ipynb utilizando Jupyter ou VS Code.
+
+
 Projeto desenvolvido durante a Jornada Python da Hashtag Treinamentos.
